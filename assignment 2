@@ -1,0 +1,6 @@
+excell - Assignment 2
+
+1. In performance sheet i have used excell formulas such as "if" and nested if to get know whether a candidate is eligible or not and whether he would be placed for a job role of "Java Developer" or "Non-IT".
+2. From sales data sheet i created a pivot table in sheet1 and found reagionwise sell
+3. In sales data table i highlighted those cells from total sell column where sale was more than 500.00 using conditional formatting.
+4. In sheet1 i have found average of sell based on product with respect to region using =averageif formula
