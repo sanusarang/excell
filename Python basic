@@ -1,1 +1,49 @@
 #Python Basics by Anudip session
+
+#Sanika Sarang
+#no need of declaring data types
+a=20
+print(a)
+b=40
+print(b)
+c=a+b
+print(c)
+
+
+# user input
+a=int(input("enter first no."))
+b=float(input("enter second no."))
+c=a+b
+print("The Additon is",c)
+
+
+#conditional statements
+age=int(input("enter your age"))
+if(age>=18):
+    print("you are eligible for voting")
+
+print()
+print()
+
+#if...else
+
+a=int(input("enter the first no."))
+b=int(input("enter the second no."))
+if(a>b):
+    print("greater no. is",a)
+else:
+    print("greater no. is",b)
+
+print()
+print()
+
+#if...elif...else
+a=int(input("enter the first no."))
+b=int(input("enter the second no."))
+c=int(input("enter the third no."))
+if(a>b and a>c):
+    print("greater no.",a)
+elif(b>a and b>c):
+    print("greater no.",b)
+else:
+    print("greater no.",c)
